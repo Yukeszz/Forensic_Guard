@@ -1,9 +1,7 @@
 🛡️ Forensic_Guard
-
 Forensic_Guard is a Python-based real-time forensic data collector and intrusion pattern monitor. It captures system, file, and network activities, detects suspicious behaviors like brute-force or DoS attacks, logs digital evidence, and sends alerts via email or SMS.
 
 🚀 Features
-
 Real-time monitoring of:
 System logs
 File access events
@@ -16,15 +14,11 @@ Evidence logging and report generation
 Alerts via email and optional SMS
 Modular and multithreaded design
 Lightweight, runs fully in VS Code
-
 📦 Installation
-
 Clone the repository
-
 git clone https://github.com/your-username/ForensicaGuard.git cd ForensicaGuard
 
 (Optional) Set up a virtual environment
-
 python -m venv venv source venv/bin/activate # On Windows use: venv\Scripts\activate
 
 Install required Python packages
